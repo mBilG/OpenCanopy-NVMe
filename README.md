@@ -5,7 +5,7 @@ I cound not find a proper NVMe drive icon for made one myself from a 3D model!
 
 Enjoy!!
 
-![alt text](https://github.com/mBilG/Open-Canopy-SSD-Icon-NVMe/blob/main/preview.png?raw=true)
+![alt text](https://github.com/mBilG/OpenCanopy-NVMe/blob/main/preview.png?raw=true)
 
 
 # How To Use?
